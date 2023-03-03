@@ -13,5 +13,6 @@ public class Books {
                 + " by " + theAdventuresOfTomSawyer.getAuthor().getName()
                 + " " + theAdventuresOfTomSawyer.getAuthor().getSurname()
                 + " published in year " + theAdventuresOfTomSawyer.getYear());
+        System.out.println("ДЗ сделано");
     }
 }
